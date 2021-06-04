@@ -34,7 +34,7 @@ function Layout({ children }) {
               <span className="mx-1 text-sm">NY</span>
             </div>
             <div className="w-full text-gray-700 md:text-center text-2xl font-semibold">
-              Pulp Inc.
+              Pulp Inc. xx
             </div>
             <div className="flex items-center justify-end w-full">
               <button
@@ -130,7 +130,7 @@ function Layout({ children }) {
             href="#"
             className="text-xl font-bold text-gray-500 hover:text-gray-400"
           >
-            Pulp Inc.
+            Pulp Inc. xx
           </a>
           <p className="py-2 text-gray-500 sm:py-0">All rights reserved</p>
         </div>
